@@ -13,7 +13,7 @@
     </header>
     <nav>
         <ul class="menu">
-            <li><a href="about.html">Про мене</a></li>
+            <li><a href="works.html">Про мене</a></li>
         </ul>
     </nav>
 </body>

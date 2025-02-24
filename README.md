@@ -10,7 +10,6 @@
     <header>
         <h1 style="text-align: center">Rokyvich</h1>
         <p style="text-align: center;">Мене звати Владислав. Я народився в Чернівецькому районі, в селі Маршині біля Новоселиці. В вільний час граю в комп'ютерні ігри</p>
-        <img src="channels4_profile.jpg" alt="Фото профілю" class="profile-img">
     </header>
     <nav>
         <ul class="menu">
